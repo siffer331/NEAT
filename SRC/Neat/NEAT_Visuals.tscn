@@ -10,3 +10,36 @@ size = 100
 
 [node name="Node" type="Node" parent="."]
 script = ExtResource( 2 )
+
+[node name="Button" type="Button" parent="."]
+margin_left = 281.0
+margin_top = 19.0
+margin_right = 293.0
+margin_bottom = 39.0
+text = "Make Connection"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="."]
+margin_left = 280.0
+margin_top = 78.0
+margin_right = 292.0
+margin_bottom = 98.0
+text = "Make Node"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button3" type="Button" parent="."]
+margin_left = 278.0
+margin_top = 141.0
+margin_right = 290.0
+margin_bottom = 161.0
+text = "Disable Connection"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+[connection signal="pressed" from="Button" to="Node" method="_on_Button_pressed"]
+[connection signal="pressed" from="Button2" to="Node" method="_on_Button2_pressed"]
+[connection signal="pressed" from="Button3" to="Node" method="_on_Button3_pressed"]
