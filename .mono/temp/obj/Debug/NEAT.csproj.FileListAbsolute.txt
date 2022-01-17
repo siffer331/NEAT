@@ -1,0 +1,8 @@
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.csprojAssemblyReference.cache
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.AssemblyInfoInputs.cache
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.AssemblyInfo.cs
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.csproj.CoreCompileInputs.cache
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/bin/Debug/NEAT.dll
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/bin/Debug/NEAT.pdb
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.dll
+/home/siffer/Documents/Projekts/NEAT/.mono/temp/obj/Debug/NEAT.pdb
